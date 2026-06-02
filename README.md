@@ -1,99 +1,103 @@
-<div align="center">
+<h1 align="center">👋 Olá, eu sou o Miguel Galvao </h1>
 
-# 👨‍💻 SEU_NOME
+<h3 align="center">
+Estudante de Desenvolvimento de Sistemas | SESI/SENAI Cruzeiro-Lorena
+</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Estudante+de+Desenvolvimento+de+Sistemas;SESI-SENAI+Cruzeiro%2FLorena;Aprendendo+programação+na+prática;Construindo+minha+jornada+na+tecnologia" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Estudante+de+TI;Aprendendo+Python+e+C%2B%2B;Linux+Ubuntu;Desenvolvimento+de+Software;Sempre+aprendendo+algo+novo&center=true&width=500&height=50">
+</p>
 
-</div>
+<hr>
 
----
+<h2>🚀 Sobre Mim</h2>
 
-## 🚀 Sobre mim
+<p>
+Sou estudante do curso Técnico em Desenvolvimento de Sistemas pelo SESI/SENAI Cruzeiro-Lorena.
+Atualmente estou desenvolvendo conhecimentos em programação, sistemas operacionais, engenharia de software e automação.
 
-🎓 Estudante do curso Técnico em Desenvolvimento de Sistemas no SESI-SENAI Cruzeiro/Lorena.  
+Meu objetivo é construir uma carreira sólida na área de tecnologia, adquirindo experiência prática e contribuindo para projetos inovadores.
+</p>
 
-💡 Interessado em tecnologia, programação e sistemas computacionais.  
+<hr>
 
-⚙️ Estou em constante evolução, focado em aprender como transformar ideias em soluções reais através da programação.  
+<h2>📚 Atualmente Estudando</h2>
 
-🎯 Busco minha primeira oportunidade na área de tecnologia enquanto construo minha base técnica.
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python" height="50"/>
+<img src="https://skillicons.dev/icons?i=cpp" height="50"/>
+<img src="https://skillicons.dev/icons?i=linux" height="50"/>
+<img src="https://skillicons.dev/icons?i=ubuntu" height="50"/>
+<img src="https://skillicons.dev/icons?i=arduino" height="50"/>
+<img src="https://skillicons.dev/icons?i=git" height="50"/>
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
 
-## 🧠 Tecnologias em aprendizado
+</p>
 
-<div align="center">
+<ul>
+  <li>🐍 Python</li>
+  <li>💻 C++</li>
+  <li>🐧 Linux Ubuntu</li>
+  <li>⚙️ Arduino</li>
+  <li>📐 Engenharia de Software</li>
+  <li>🖥️ Windows CMD</li>
+  <li>🔧 Git e GitHub</li>
+</ul>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,linux,git,github,vscode,arduino" />
+<hr>
 
-</div>
+<h2>🛠️ Ferramentas que Utilizo</h2>
 
-- 🐍 Python (lógica e automação)
-- 💻 C++ (fundamentos de programação)
-- 🐧 Linux Ubuntu (terminal e sistemas)
-- 🤖 Arduino (eletrônica e automação)
-- 🌐 Git & GitHub (versionamento)
-- 🖥️ CMD / terminal Windows
-- ⚙️ Engenharia de Software (base teórica)
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=vscode" height="60"/>
+<img src="https://skillicons.dev/icons?i=github" height="60"/>
+<img src="https://skillicons.dev/icons?i=git" height="60"/>
+<img src="https://skillicons.dev/icons?i=linux" height="60"/>
+<img src="https://skillicons.dev/icons?i=ubuntu" height="60"/>
+<img src="https://skillicons.dev/icons?i=arduino" height="60"/>
 
-## ⭐ Habilidades pessoais
+</p>
 
-- Autonomia no aprendizado  
-- Gestão de tempo  
-- Pensamento lógico  
-- Resolução de problemas  
-- Organização  
-- Trabalho em equipe  
-- Foco em evolução constante  
+<hr>
 
----
+<h2>⭐ Qualidades</h2>
 
-## 📈 Status de evolução
+<ul>
+  <li>✅ Autonomia</li>
+  <li>✅ Gestão de Tempo</li>
+  <li>✅ Trabalho em Equipe</li>
+  <li>✅ Organização</li>
+  <li>✅ Resolução de Problemas</li>
+  <li>✅ Projeto de Software</li>
+  <li>✅ Aprendizado Contínuo</li>
+</ul>
 
-```text
-Programação      ████████░░░░░░░░░░
-Linux            ███████░░░░░░░░░░░
-Git/GitHub       ██████░░░░░░░░░░░░
-Arduino          ██████░░░░░░░░░░░░
-```
+<hr>
 
----
+<h2>📈 Estatísticas GitHub</h2>
 
-## 🎯 Objetivos
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
+</p>
 
-- Aprimorar lógica de programação
-- Criar meus primeiros projetos completos
-- Evoluir em Python e C++
-- Aprender desenvolvimento de sistemas reais
-- Construir um portfólio sólido
-- Conseguir minha primeira experiência na área
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+</p>
 
----
+<hr>
 
-## 📊 GitHub Stats
+<h2>📫 Contato</h2>
 
-<div align="center">
+<p>
+📧 Email: guel82gusto@gmail.com 
+🐙 GitHub: https://github.com/miguelgalvao001
+</p>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
+<hr>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-## 💭 Filosofia
-
-> “Não é sobre saber tudo, é sobre nunca parar de aprender.”
-
----
-
-<div align="center">
-
-⭐ Obrigado por visitar meu perfil  
-
-🚀 Em constante evolução na tecnologia  
-
-</div>
+<p align="center">
+  <i>"A tecnologia move o mundo, e o aprendizado constante abre os caminhos."</i>
+</p>
