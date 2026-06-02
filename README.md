@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou <Miguel Augusto>
+# 👋 Olá, eu sou o Miguel Galvão
 
 <div align="center">
 
