@@ -77,7 +77,7 @@ C++        ██████░░░░░░░░░░░░░░
 
 📧 Email: guel82gusto@gmail.com
 
-🐙 GitHub: https://github.com/<SEU_USUARIO>
+🐙 GitHub: https://github.com/miguelgalvao001
 
 ---
 
