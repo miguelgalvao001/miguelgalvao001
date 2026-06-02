@@ -77,22 +77,11 @@ Meu objetivo é construir uma carreira sólida na área de tecnologia, adquirind
 
 <hr>
 
-<h2>📈 Estatísticas GitHub</h2>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
-</p>
-
-<hr>
-
 <h2>📫 Contato</h2>
 
 <p>
-📧 Email: guel82gusto@gmail.com 
+📧 Email: guel82gusto@gmail.com <br>
+  
 🐙 GitHub: https://github.com/miguelgalvao001
 </p>
 
