@@ -2,89 +2,40 @@
 
 <div align="center">
 
-### 💻 Estudante de Desenvolvimento de Sistemas | 🚀 Futuro Desenvolvedor
+### 💻 Estudante de Desenvolvimento de Sistemas | 🚀 Futuro Desenvolvedor Full Stack
 
-*"Transformando curiosidade em código e ideias em projetos."*
+💡 *"Transformando curiosidade em código e ideias em projetos reais."*
 
 </div>
 
 ---
 
-## 🎯 Sobre Mim
+## 🧠 Sobre Mim
 
 Sou estudante do curso Técnico em Desenvolvimento de Sistemas no SESI-SENAI Cruzeiro/Lorena.
 
-Tenho grande interesse por tecnologia, programação e resolução de problemas. Estou constantemente buscando novos conhecimentos e desenvolvendo projetos para aprimorar minhas habilidades técnicas e profissionais.
-
-Atualmente foco meus estudos em desenvolvimento de software, sistemas computacionais e automação.
+Tenho grande interesse por tecnologia, programação e resolução de problemas. Estou sempre aprendendo e desenvolvendo projetos para evoluir minhas habilidades.
 
 ---
 
-## 🧠 Tecnologias e Conhecimentos
+## ⚙️ Tecnologias que estou aprendendo
 
-### Atualmente estudando
+<p align="center">
 
-🐍 Python  
-🐧 Linux Ubuntu  
-⚙️ Engenharia de Software  
-🤖 Arduino  
-💻 C++  
-🖥️ Windows CMD
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40"/>
 
----
-
-## 🚀 Habilidades
-
-✔️ Autonomia  
-✔️ Gestão de Tempo  
-✔️ Desenvolvimento de Projetos  
-✔️ Organização  
-✔️ Trabalho em Equipe  
-✔️ Pensamento Analítico  
-✔️ Resolução de Problemas  
-✔️ Aprendizagem Contínua
+</p>
 
 ---
 
-## 📚 Minha Jornada
+## 📊 Nível de conhecimento
 
 ```text
-Iniciante  ██████████░░░░░░░░░░ 50%
-
-Python     ██████████░░░░░░░░░░
-Linux      ████████░░░░░░░░░░░░
-Arduino    ███████░░░░░░░░░░░░░
-C++        ██████░░░░░░░░░░░░░░
-```
-
----
-
-## 🔥 Objetivos
-
-🎯 Evoluir como desenvolvedor
-
-🎯 Construir projetos cada vez mais complexos
-
-🎯 Aprender novas tecnologias
-
-🎯 Contribuir para projetos colaborativos
-
-🎯 Ingressar no mercado de tecnologia
-
----
-
-## 🌎 Onde me encontrar
-
-📧 Email: guel82gusto@gmail.com
-
-🐙 GitHub: https://github.com/miguelgalvao001
-
----
-
-<div align="center">
-
-### 🚀 "Todo especialista já foi um iniciante."
-
-Obrigado por visitar meu perfil!
-
-</div>
+Python     ██████████░░░░░░░░░░ 50%
+Linux      █████████░░░░░░░░░░░ 45%
+C++        ███████░░░░░░░░░░░░░ 35%
+Arduino    ████████░░░░░░░░░░░░ 40%
