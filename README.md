@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Miguel Galvao </h1>
+<h1 align="center">👋 Olá, eu sou o Miguel Galvão </h1>
 
 <h3 align="center">
 Estudante de Desenvolvimento de Sistemas | SESI/SENAI Cruzeiro-Lorena
