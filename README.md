@@ -14,7 +14,7 @@ Estudante de Desenvolvimento de Sistemas | SESI/SENAI Cruzeiro-Lorena
 
 <p>
 Sou estudante do curso Técnico em Desenvolvimento de Sistemas pelo SESI/SENAI Cruzeiro-Lorena.
-Atualmente estou desenvolvendo conhecimentos em programação, sistemas operacionais, engenharia de software e automação, também cursando inglês e cursos da área de tecnologia.
+Atualmente estou desenvolvendo conhecimentos em programação, sistemas operacionais, engenharia de software e automação.
 
 Meu objetivo é construir uma carreira sólida na área de tecnologia, adquirindo experiência prática e contribuindo para projetos inovadores.
 </p>
